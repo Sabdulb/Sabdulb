@@ -3,12 +3,12 @@
 
 <h3 align="left">Check out what im working on!</h3>
 <p align="left">
-<a href="https://adaro.ai">adaro.ai</a>
+<a href="https://adaro.ai" target="blank">adaro.ai</a>
 </p>
 
 <h3 align="left">Go visit my WIP website!</h3>
 <p align="left">
-<a href="https://salembaki.com">salembaki.com</a>
+<a href="https://salembaki.com" target="blank">salembaki.com</a>
 </p>
 
 
