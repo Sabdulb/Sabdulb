@@ -6,7 +6,7 @@
 <a href="https://adaro.ai" target="blank">adaro.ai</a>
 </p>
 
-<h3 align="left">Go visit my WIP website!</h3>
+<h3 align="left">Go visit my temporary portfolio!</h3>
 <p align="left">
 <a href="https://salembaki.com" target="blank">salembaki.com</a>
 </p>
