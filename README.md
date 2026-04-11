@@ -68,10 +68,6 @@ Currently co-founding **[Adaro](https://adaro.ai)** — an AI-powered marketing 
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-The fastest way to reach me is **[LinkedIn](https://linkedin.com/in/sabdulb)** or my **[portfolio](https://salembaki.com)**. Happy to chat about anything!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabdulb&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
+The fastest way to reach me is **[LinkedIn](https://linkedin.com/in/sabdulb)** or my **[Portfolio](https://salembaki.com)**. Happy to chat about anything!
