@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Salem 👋</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
+<h3 align="center">Full-Stack Software Engineer & Master's Student at the University of Virginia</h3>
 
 <p align="center">
   CS grad from George Mason (Cum Laude, '25) · Published IEEE researcher <br/>
