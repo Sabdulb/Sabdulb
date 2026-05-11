@@ -15,6 +15,6 @@
 
 ---
 
-> “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
+> “Knowledge can change one’s destiny, and diligence will result in glory.”
 > 
-> — Aaron Swartz (1986 - 2013)
+> — Klein Moretti
